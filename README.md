@@ -38,7 +38,7 @@ An application that takes a user's text question, sends it to an OpenAI Language
 ------------------------------------------------------------------------------------------------------
 ## Installation
 ------------------------------------------------------------------------------------------------------
-1. **Setup the conda environment to run this application
+1. **Setup the conda environment to run this application**:
     * Create a new conda environment
     * Install the required packages in requirements.txt file.
     * Run the below steps in the new environment created.
