@@ -38,15 +38,19 @@ An application that takes a user's text question, sends it to an OpenAI Language
 ------------------------------------------------------------------------------------------------------
 ## Installation
 ------------------------------------------------------------------------------------------------------
-
-1.  **How to start the server**:
+1. **Setup the conda environment to run this application
+    * Create a new conda environment
+    * Install the required packages in requirements.txt file.
+    * Run the below steps in the new environment created.
+  
+2.  **How to start the server**:
     * In a bash terminal run the following commmand:
         bash ./run_server.sh.
     * You will see an output :  
         Uvicorn running on http://127.0.0.1:8000
     * This indicates the server process has started and is running.
 
-2. **How to run the application**:
+3. **How to run the application**:
     * In another terminal, run the following command:
         streamlit run client/streamlit_ui.py
     * This starts the streamilt UI for user interface in the browser.
@@ -55,7 +59,7 @@ An application that takes a user's text question, sends it to an OpenAI Language
     * This audio is played directly on the audio player in the UI.
     * It is also available as an mp3 file in the directory. 
 
-3. **How to test the application**:
+4. **How to test the application**:
     * You can run 'python test.py' in a terminal to test the 5 queries I have written. 
     * This will generate audio files as output which are saved to 'test_audio_outputs' folder.
     * Alternatively, you can test the end-to-end application by running the streamlit application with your own query.
