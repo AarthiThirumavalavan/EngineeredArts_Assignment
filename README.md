@@ -10,6 +10,11 @@ An application that takes a user's text question, sends it to an OpenAI Language
 2.  **Streamlit Client**: Provides a UI for users to input their questions and hear the response as audio.
 
 ------------------------------------------------------------------------------------------------------
+## Application flow chart
+------------------------------------------------------------------------------------------------------
+![Engineered_Arts](https://github.com/user-attachments/assets/46d85f41-542e-4202-a89f-ac85968fcf5f)
+
+------------------------------------------------------------------------------------------------------
 ## Project Structure
 ------------------------------------------------------------------------------------------------------
 
