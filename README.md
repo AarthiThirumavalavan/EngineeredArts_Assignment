@@ -44,7 +44,7 @@ An application that takes a user's text question, sends it to an OpenAI Language
     * Run the below steps in the new environment created.
   
 2.  **How to start the server**:
-    * In a bash terminal run the following commmand:
+    * In a bash terminal run the following commmand in the environment created:
         bash ./run_server.sh.
     * You will see an output :  
         Uvicorn running on http://127.0.0.1:8000
