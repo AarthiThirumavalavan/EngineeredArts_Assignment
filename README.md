@@ -25,6 +25,12 @@ An application that takes a user's text question, sends it to an OpenAI Language
 └── requirements.txt       # List of libraries required for the project to run
 ```
 ------------------------------------------------------------------------------------------------------
+## Streamlit UI Page
+------------------------------------------------------------------------------------------------------
+
+<img width="1078" alt="Screenshot 2025-06-20 at 14 57 35" src="https://github.com/user-attachments/assets/029b4d9a-13fd-49a1-8039-aea57d2db9c1" />
+
+------------------------------------------------------------------------------------------------------
 ## Installation
 ------------------------------------------------------------------------------------------------------
 
