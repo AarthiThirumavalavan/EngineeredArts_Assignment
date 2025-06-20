@@ -12,7 +12,7 @@ An application that takes a user's text question, sends it to an OpenAI Language
 ------------------------------------------------------------------------------------------------------
 ## Application flow chart
 ------------------------------------------------------------------------------------------------------
-![Engineered_Arts](https://github.com/user-attachments/assets/46d85f41-542e-4202-a89f-ac85968fcf5f)
+<img width="383" alt="Screenshot 2025-06-20 at 15 20 12" src="https://github.com/user-attachments/assets/239811b7-0109-4e95-b331-7b8e667e9a03" />
 
 ------------------------------------------------------------------------------------------------------
 ## Project Structure
