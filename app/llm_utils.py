@@ -31,7 +31,7 @@ def get_speech_output(llm_output):
     try:
         with client.audio.speech.with_streaming_response.create(
             model="tts-1",  
-            voice= "alloy",  #voice model
+            voice= "alloy",  
             input=llm_output
         ) as response:
             audio_bytes = response.read() # Read all bytes from the stream
